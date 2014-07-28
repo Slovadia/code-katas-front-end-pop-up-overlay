@@ -5,7 +5,7 @@
 Suppose you are dealing with a project that has a unique front page. Design team would like to to include a pop up that
 overlays on top of the front page.
 
-This pop up should appear in the middle of the page when clicking on the `<h1>` that reads *Front Page*, it should
+This pop up should appear in the middle of the page when clicking on the `<h1>` that reads *Front page*, it should
 stand out from the rest of the content, i.e we want that anything behind the pop up appears in a darker shadow,
 as in the example below.
 
@@ -24,7 +24,7 @@ Once the pop up is being displayed we'd like to offer three options to hide it:
 Your goal is to write the necessary HTML, CSS and JavaScript in order to achieve the same effect as in the example,
 including the two images and text that form part of the pop up content.
 
-The pop up should appear when clicking on the `<h1>` that reads *Front Page*.
+The pop up should appear when clicking on the `<h1>` that reads *Front page*.
 
 The pop up should disappear when:
 
