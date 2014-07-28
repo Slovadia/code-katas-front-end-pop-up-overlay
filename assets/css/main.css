@@ -1,3 +1,4 @@
-body{
-    background-color: #ff0000;
-}
+body{background-color: #ccc; font-size: 13px}
+h1{color: white; font-size: 6em}
+h1 a{text-decoration: none; color: white;}
+.hidden{}
