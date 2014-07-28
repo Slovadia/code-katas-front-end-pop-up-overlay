@@ -1,0 +1,24 @@
+{
+    "authors": [
+        {
+            "name": "Enmanuel Cueva",
+            "email": "enmanuel@kurtgeiger.com"
+        }
+    ],
+    "require": {
+        "jquery/jquery": "2.1.1"
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "jquery/jquery",
+                "version": "2.1.1",
+                "dist": {
+                    "url": "http://code.jquery.com/jquery-2.1.1.min.js",
+                    "type": "file"
+                }
+            }
+        }
+    ]
+}

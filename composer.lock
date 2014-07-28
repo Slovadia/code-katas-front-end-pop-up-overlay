@@ -1,0 +1,37 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "01c36615539098018c12a61e290dcf32",
+    "packages": [
+        {
+            "name": "jquery/jquery",
+            "version": "2.1.1",
+            "dist": {
+                "type": "file",
+                "url": "http://code.jquery.com/jquery-2.1.1.min.js",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
