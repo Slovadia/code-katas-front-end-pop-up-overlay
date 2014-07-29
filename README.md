@@ -34,3 +34,18 @@ The pop up should disappear when:
 
 ##Start
 
+0. Install composer.phar (if you don't already have it)
+    - [*nix installation guide](https://getcomposer.org/doc/00-intro.md#installation-nix)
+    - [Windows installation guide](https://getcomposer.org/doc/00-intro.md#installation-windows)
+
+1. Clone the repository and install dependencies
+    - `git clone https://github.com/cuevae/code-katas-front-end-pop-up-overlay.git`
+    - `cd code-katas-front-end-pop-up-overlay; composer install`
+
+2. Check you are good to go
+    - open `index.html` in your browser and you should see the front page with the pop up on top of it
+    - Now you can start making it work as expected
+
+###Working example
+
+You can visit a working example [here](http://cuevae.github.io/code-katas-front-end-pop-up-overlay/)
