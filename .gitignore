@@ -34,3 +34,6 @@ com_crashlytics_export_strings.xml
 #Composer config
 vendor/
 bin/
+
+#JQuery should be available
+!vendor/jquery/jquery/jquery-2.1.1.min.js
