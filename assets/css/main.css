@@ -1,4 +1,23 @@
 body{background-color: #ccc; font-size: 13px}
 h1{color: white; font-size: 6em}
 h1 a{text-decoration: none; color: white;}
-.hidden{}
+.hidden{display: none;}
+.popout-overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.pop-up-content-wrapper{
+    height: 650px;
+    width: 600px;
+}
+
+.pop-up-content-wrapper .column{
+    width: 50%;
+    float: left;
+}
