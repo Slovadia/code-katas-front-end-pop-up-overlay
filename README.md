@@ -38,13 +38,15 @@ The pop up should disappear when:
     - [*nix installation guide](https://getcomposer.org/doc/00-intro.md#installation-nix)
     - [Windows installation guide](https://getcomposer.org/doc/00-intro.md#installation-windows)
 
-1. Clone the repository and install dependencies
+1. Fork the repository and install dependencies
     - `git clone https://github.com/cuevae/code-katas-front-end-pop-up-overlay.git`
     - `cd code-katas-front-end-pop-up-overlay; composer install`
 
 2. Check you are good to go
     - open `index.html` in your browser and you should see the front page with the pop up on top of it
     - Now you can start making it work as expected
+
+3. Once you've finished you can create a Pull Request and your solution will be part of the repository
 
 ###Working example
 
