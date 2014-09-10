@@ -46,7 +46,7 @@ The pop up should disappear when:
     - open `index.html` in your browser and you should see the front page with the pop up on top of it
     - Now you can start making it work as expected
 
-3. Once you've finished you can create a Pull Request and your solution will be part of the repository
+3. Once you've finished you can create a Pull Request and submit a branch with your solution
 
 ###Working example
 
